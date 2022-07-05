@@ -1,0 +1,75 @@
+body {
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+  background-image: linear-gradient(white,black);
+  background-image: url("img/background.png");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.hidden {
+  display: none;
+}
+
+.github_button {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 162, 0);
+}
+
+.header {
+    background-color: red;
+    color: rgb(0, 123, 231);
+    text-align:center;
+    font-size: large;
+}
+
+.contact_button {
+    color:red;
+    background-color: gold;
+    text-align: center;
+}
+
+.contact {
+  color:gray;
+  background-color: gold;
+}
+
+.insta {
+  width: 100px ;
+  height: 100px;
+}
+
+.banner {
+  background-color: gold;
+  width: 50%;
+  height:50%;
+}
+
+.insta_para {
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+  height:100px;
+  width:100px;
+}
+
+.mail_para {
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+  height:100px;
+  width:100px;
+}
+
+img  {
+  margin-left:auto;
+  margin-right:auto;
+  text-align: center;
+  height:100px;
+  width:100px;
+}
+
+.reseaux {
+  margin-left:10px;
+}

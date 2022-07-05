@@ -1,0 +1,8 @@
+<py-script>
+        import socket
+        print(f"Welcome to Felisse.fr, {socket.gethostbyname(socket.gethostname())} !")
+    </py-script>
+
+    
+<link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+<script defer src="https://pyscript.net/alpha/pyscript.js"></script>
